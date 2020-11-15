@@ -13,12 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/Dim4ik85/goit-js-hw-11-color-switch.git"
   },
-  "author": "",
+  "author": "Dim4ik85",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dim4ik85/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://github.com/Dim4ik85/goit-js-hw-11-color-switch#readme",
+  "homepage": "https://github.com/Dim4ik85.github.io/goit-js-hw-11-color-switch",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "parcel-bundler": "^1.12.4",
